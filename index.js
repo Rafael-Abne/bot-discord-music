@@ -2,7 +2,7 @@ const Discord  = require('discord.js');
 const client = new Discord.Client();
 const ytdl = require('ytdl-core');
 const array_welcome = ['olá','oi','Olá','ola','Ola','Oi'];
-client.login('Njk4NTc4MjAyNDQ4MTAxMzk4.XpH4Cg.1fGxV-YET0Jd8lzkas21HXX6Xlc');
+client.login('seu token');
 
 client.on('ready', () => {
   console.log('I am ready');
