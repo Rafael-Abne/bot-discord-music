@@ -3,7 +3,7 @@
 ## BOT DISCORD PARA TOCAR MÚSICAS
 
 <div align="center" style="margin-bottom: 20px;">
-<img alt="gobarber" src="img.png" width="auto" heigth="auto"/>
+<img alt="BOT" src="img.png" width="auto" heigth="auto"/>
 </div>
 
 ### :rocket:   Tecnologias Usadas
