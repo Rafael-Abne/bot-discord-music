@@ -11,6 +11,6 @@
 - [NodeJS](https://nodejs.org/en/)
 - [ExpressJS](https://expressjs.com/pt-br/)
 
-## ::exclamation COMANDOS
+## :exclamation: COMANDOS
 - !PLAY link da música no youtube
 - !STOP parar música
